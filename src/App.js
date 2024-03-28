@@ -10,8 +10,11 @@ function App() {
     <div className="container-fluid">
     <div className='background-image'></div>
     <div className='main'>
-      <h1>hello</h1>
-      </div>
+      <div className='text-center'>
+      <h1>HEALER</h1>
+      <br></br>
+      <h3>Easy to Manage</h3><h3>Easy to use</h3>
+      </div></div>
       </div>
     </div>
   );
